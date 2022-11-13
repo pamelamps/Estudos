@@ -9,6 +9,8 @@ Este repositório tem por fim armazenar todos os meus arquivos de estudo
 - pull
 - push 
 - status
+- init
+
 
 ### O que é um commit
 Um commit, é quando eu adiciono arquivos editados na fila/stage para serem posteriormente submetidos ao repositório através de um git pull
